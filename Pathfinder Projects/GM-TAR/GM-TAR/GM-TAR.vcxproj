@@ -131,7 +131,7 @@
     <ClCompile Include="..\Dice.cpp" />
     <ClCompile Include="..\Disease.cpp" />
     <ClCompile Include="..\Encounter.cpp" />
-    <ClCompile Include="..\FileReceive.cpp" />
+    <ClCompile Include="..\FileReceiver.cpp" />
     <ClCompile Include="..\TableRollerMenu.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -142,9 +142,10 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\Resources\MneriPlains.txt" />
+    <Text Include="..\Resources\Saventh-Yhi.txt" />
     <Text Include="..\Resources\Setup.txt" />
     <Text Include="..\Resources\SmugglersShiv.txt" />
-    <Text Include="..\Resources\playerList.txt" />
+    <Text Include="..\Resources\PartyList.txt" />
     <Text Include="ScreamingJungle.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

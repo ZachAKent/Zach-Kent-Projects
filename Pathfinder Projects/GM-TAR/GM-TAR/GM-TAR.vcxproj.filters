@@ -21,7 +21,7 @@
     <ClCompile Include="..\Encounter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\FileReceive.cpp">
+    <ClCompile Include="..\FileReceiver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\TableRollerMenu.cpp">
@@ -49,7 +49,7 @@
     <Text Include="..\Resources\SmugglersShiv.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="..\Resources\playerList.txt">
+    <Text Include="..\Resources\PartyList.txt">
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="..\Resources\MneriPlains.txt">
@@ -59,6 +59,9 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="..\Resources\Setup.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="..\Resources\Saventh-Yhi.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>

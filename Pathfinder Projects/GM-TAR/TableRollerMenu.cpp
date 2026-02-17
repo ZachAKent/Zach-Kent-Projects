@@ -26,7 +26,7 @@ void DiseaseMenu()
 
 	if (files.GetResult() == Both || files.GetResult() == PlayerOnly)
 	{
-		vector<string> players = files.PlayerTable();
+		vector<string> players = files.PartyTable();
 
 		for (int i = 0; i < players.size(); i++)
 		{

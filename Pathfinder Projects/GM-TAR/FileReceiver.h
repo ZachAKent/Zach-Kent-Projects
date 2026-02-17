@@ -22,7 +22,7 @@ public:
 	bool LoadMonsterFile(string);
 	bool LoadPlayerFile(string);
 	vector<string> MonsterTable();
-	vector<string> PlayerTable();
+	vector<string> PartyTable();
 	void InitialStartup(string, string);
 	FileResult GetResult();
 };

@@ -80,7 +80,7 @@ private:
 	vector<Result> encounters;
 	vector<Monster> monsters;
 	int days = 1;
-	int percentChance = 15;
+	int percentChance = 10;
 	Time time = Dawn;
 
 	string EnumToString(Time time);

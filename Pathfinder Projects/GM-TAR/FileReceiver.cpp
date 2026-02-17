@@ -70,7 +70,7 @@ vector<string> FileReceiver::MonsterTable()
 	return monsters;
 }
 
-vector<string> FileReceiver::PlayerTable()
+vector<string> FileReceiver::PartyTable()
 {
 	vector<string> players;
 	string name;
